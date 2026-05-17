@@ -1,0 +1,5 @@
+Host github-cjm
+  HostName github.com
+  User git
+  IdentityFile C:/Users/lrh/cjmGithub
+  IdentitiesOnly yes
